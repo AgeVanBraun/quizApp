@@ -1,0 +1,13 @@
+body {
+    background-color: blueviolet !important;
+}
+
+.container{
+    min-height: 100vh;
+    background-color: blueviolet !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
